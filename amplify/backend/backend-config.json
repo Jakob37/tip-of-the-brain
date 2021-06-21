@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "tipofthebrain8cfa4a45": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

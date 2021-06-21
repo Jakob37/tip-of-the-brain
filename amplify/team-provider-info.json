@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tipofthebrain-dev-214426-authRole",
+      "UnauthRoleArn": "arn:aws:iam::367677967148:role/amplify-tipofthebrain-dev-214426-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::367677967148:role/amplify-tipofthebrain-dev-214426-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-tipofthebrain-dev-214426-deployment",
+      "UnauthRoleName": "amplify-tipofthebrain-dev-214426-unauthRole",
+      "StackName": "amplify-tipofthebrain-dev-214426",
+      "StackId": "arn:aws:cloudformation:eu-central-1:367677967148:stack/amplify-tipofthebrain-dev-214426/1872d390-d2c9-11eb-819c-02efbfe54776",
+      "AmplifyAppId": "d1hnlovec039t"
+    },
+    "categories": {
+      "auth": {
+        "tipofthebrain8cfa4a45": {}
+      }
+    }
+  }
+}
