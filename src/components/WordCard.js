@@ -1,15 +1,14 @@
 import './WordCard.css'
+import WordDate from './WordDate'
 
-function WordCard() {
+function WordCard(props) {
 
-    const chinese = '苹果';
-    const english = 'Apple';
-    const difficulty = 3;
 
     return <div className="word-card">
-        <div>{chinese}</div>
-        <div>{english}</div>
-        <div>{new Array(difficulty).fill('X')}</div>
+        <WordDate date={props.date} />
+        <div>{props.chinese}</div>
+        <div>{props.english}</div>
+        <div>{new Array(props.difficulty).fill('X')}</div>
     </div>
 }
 
