@@ -1,5 +1,5 @@
 import './App.css'
-import WordCard from './components/WordCard'
+import WordCard from './components/Words/WordCard'
 
 import Amplify from 'aws-amplify'
 import awsconfig from './aws-exports'

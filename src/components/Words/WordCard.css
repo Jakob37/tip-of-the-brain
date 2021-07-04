@@ -7,4 +7,9 @@
     margin: 1rem 0;
     border-radius: 12px;
     background-color: lightgreen;
+    font-size: xx-large;
+}
+
+.field {
+    color: darkslategray;
 }
